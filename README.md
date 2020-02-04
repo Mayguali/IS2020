@@ -1,13 +1,14 @@
 # IS2020
 ## Ingenieria de software
 
-### Ingenieria-software
-Unidad 1: Introducción a la ingeniería del software y sistemas de información
+##### Ingenieria-software
+### Unidad 1: Introducción a la ingeniería del software y sistemas de información
 *
-**1.1. Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión.** 
+*1.1. Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión.
 1.2. La importancia de la ingeniería del software.
 1.3. Historia de la Ingeniería del Software.
-1.4. Los sistemas de información: concepto,características, estructuras, procesos,clasificación, ERP´s, CRM, SCM.
+1.4. Los sistemas de información: concepto,características, estructuras, procesos,clasificación, ERP´s, CRM, SCM.*
+*
 Unidad 2: Modelos de la ingeniería del software
 2.1. Modelo de capacidad de madurez.
 2.2. Marco de trabajo para el proceso.
