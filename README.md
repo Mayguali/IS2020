@@ -22,21 +22,29 @@ _1.4. Los sistemas de información: concepto,características, estructuras, proc
 
 ### Unidad 3: Planificación del proyecto de software
 3.1. Aplicación de herramientas para estimación de tiempos y costos de desarrollo de software: GANTT, PERT/CPM, uso de software para la estimación de tiempos y costos.
-()
+
 3.2. Ámbito del software: recursos humanos, recursos de software reutilizables, recursos del entorno.
-()
+
 3.3. Análisis y gestión del riesgo: estrategias, identificación, proyección, refinamiento, reducción, supervisión y gestión del riesgo.
 
 ### Unidad 4: Análisis del proyecto de software
 4.1. Modelado: análisis, diseño, documentación.
+
 4.2. Construcción: codificación, pruebas y evaluación,manual del usuario, manual técnico.
+
 4.3. Medida, métrica e indicador.
+
 4.4. Tipos de métricas: métricas de proceso, métricas de proyecto, métricas orientadas a punto de función, métricas orientadas al tamaño, métricas para la calidad del software.
+
 4.5. Implementación y mantenimiento: entrega, retroalimentación del cliente.*
 
 ### Unidad 5: Calidad del software
 5.1. Definición de calidad y calidad del software.
+
 5.2. Importancia de la calidad.
+
 5.3. La calidad y la globalización.
+
 5.4. Aseguramiento de la calidad del software (SQA): definición y propósito del SQA, problemas que resuelve el SQA, roles y responsabilidades de los equipos de desarrollo, habilidades y capacidades del personal del SQA, Actividades del SQA.
+
 5.5. Derecho informático aplicado al software: piratería y falsificación, autoría y creación, contratos y licencias.
