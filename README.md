@@ -1,7 +1,7 @@
 # IS2020
 
-### Ingenieria-software
-### Unidad 1: Introducción a la ingeniería del software y sistemas de información
+### _Ingenieria-software_
+### _Unidad 1: Introducción a la ingeniería del software y sistemas de información_
 
 _1.1.Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión._
 
