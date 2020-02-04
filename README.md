@@ -3,11 +3,11 @@
 ### Ingenieria-software
 ### Unidad 1: Introducción a la ingeniería del software y sistemas de información
 
-_1.1.Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión_
+_1.1.Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión._
 
 _1.2. La importancia de la ingeniería del software._
 
-_1.3. Historia de la Ingeniería del Software_
+_1.3. Historia de la Ingeniería del Software._
 
 _1.4. Los sistemas de información: concepto,características, estructuras, procesos,clasificación, ERP´s, CRM, SCM._
 
@@ -22,7 +22,9 @@ _1.4. Los sistemas de información: concepto,características, estructuras, proc
 
 ### Unidad 3: Planificación del proyecto de software
 3.1. Aplicación de herramientas para estimación de tiempos y costos de desarrollo de software: GANTT, PERT/CPM, uso de software para la estimación de tiempos y costos.
+()
 3.2. Ámbito del software: recursos humanos, recursos de software reutilizables, recursos del entorno.
+()
 3.3. Análisis y gestión del riesgo: estrategias, identificación, proyección, refinamiento, reducción, supervisión y gestión del riesgo.
 
 ### Unidad 4: Análisis del proyecto de software
